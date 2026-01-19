@@ -4,7 +4,7 @@ Hi! I’m a Second-year BTech student in Artificial Intelligence & Data Science 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-munot-250845202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathammunot4@gmail.com) 
-[![Instagram](https://img.shields .io/badge/Instagram-%23E4405F .svg?logo=Instagram&logoColor =white)](I'm on Instagram as @prathammunot_73. Install the app to follow my photos and videos. https://www.instagram.com/invites/contact/?igsh=1hsfvo8wwsqnh&utm_content=k5f2kqg)
+[![Instagram](https://img.shields .io/badge/Instagram-%23E4405F .svg?logo=Instagram&logoColor =white)] (https://www.instagram.com/invites/contact/?igsh=1hsfvo8wwsqnh&utm_content=k5f2kqg)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
