@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Second-year BTech student in Artificial Intelligence & Data Science (AIDS).<br>I’m currently building a strong foundation in Data Structures & Algorithms and Python, while actively exploring the world of Artificial Intelligence.<br>I enjoy learning by building, solving problems, and continuously improving my technical skills.
+Hi! I’m a Third-year BTech student in Artificial Intelligence & Data Science (AIDS).<br>I’m currently building a strong foundation in Data Structures & Algorithms and Python, while actively exploring the world of Artificial Intelligence.<br>I enjoy learning by building, solving problems, and continuously improving my technical skills.
 
 
 ## 🌐 Socials:
