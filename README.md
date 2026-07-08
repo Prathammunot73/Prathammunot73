@@ -8,9 +8,9 @@ Hi! I’m a Third-year BTech student in Artificial Intelligence & Data Science (
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prathammunot73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prathammunot73&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathammunot73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prathammunot73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prathammunot73&theme=dark&hide_border=false&cache_seconds=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathammunot73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prathammunot73&icon=0&color=0)](https://visitcount.itsvg.in)
